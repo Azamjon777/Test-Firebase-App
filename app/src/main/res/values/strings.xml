@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BDapp</string>
+    <string name="app_in_name">Azamjon</string>
+    <string name="app_name_after">Register App</string>
+    <string name="text_bottom">Войти...</string>
+    <string name="ButtonSignIn">Войти</string>
+    <string name="buttonRegister">Зарегистрироваться</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="name">Введите имя</string>
+    <string name="phone">Телефон</string>
+</resources>
